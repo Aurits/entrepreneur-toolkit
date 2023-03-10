@@ -10,3 +10,4 @@
 * [starting a startup](starting_a_startup.md)
 * [fundraising](fundraising.md)
 * [running a startup](running_a_startup.md)
+* [crypto-related](crypto.md)
