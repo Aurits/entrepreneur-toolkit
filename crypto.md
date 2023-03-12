@@ -6,4 +6,9 @@
 
 <br>
 
+### resources
+
+<br>
+
 * [list of crypto vcs by tiers](https://docs.google.com/spreadsheets/d/1saqKNeo9pSl-m_Xa9jVpFyPfg8faCXn6lZ3TEtTKz5Y/edit#gid=0)
+* [crypto rank (ico/ido)](https://cryptorank.io/)
