@@ -6,6 +6,18 @@
 
 <br>
 
+
+### grants
+
+<br>
+
+* [solana grants](https://solana.org/grants)
+
+<br>
+
+---
+
+
 ### resources
 
 <br>
