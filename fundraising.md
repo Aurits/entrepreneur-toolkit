@@ -8,7 +8,19 @@
 * [List of microgrants](https://github.com/nayafia/microgrants).
 * [A Fundraising Survival Guide](http://www.paulgraham.com/fundraising.html).
 
-## Incubators and Accelerators
+<br>
+
+---
+
+### tools
+
+* [venture funding events in web3](https://vcdata.site/)
+
+<br>
+
+---
+
+### incubators and accelerators
 
 * [Ycombinator](https://www.ycombinator.com/).
 * [Entrepreneur First](https://www.joinef.com/).
@@ -18,9 +30,11 @@
 * [Tandem Launch](https://www.tandemlaunch.com/en/startup-program/).
 * [Alchemist](https://alchemistaccelerator.com/).
 
+<br>
 
+---
 
-## Angels and VCs
+### angels and vcs
 
 * [Acme](https://www.acme.vc/).
 * [Harlen](https://harlem.capital/about).
@@ -170,30 +184,32 @@
 * [BBG ventures](https://www.bbgventures.com/portfolio/).
 
 
-### Specific Capital
+#### Specific Capital
 
 * [Quantum Computing capital](https://quantumcomputingreport.com/players/venture-capital/).
 * [Female founders](https://www.gv.com/portfolio/).
 * [Open Source Capital](https://oss.capital/).
 
+<br>
+
+---
 
 
+### Pitching 
 
-## Pitching 
-
-### Writing Decks
+#### Writing Decks
 
 * [How to write a killer deck and get funded](https://vator.tv/news/2010-12-14-how-to-write-a-killer-deck-and-get-funded).
 
 
-### How to Pitch
+#### How to Pitch
 
 * [How to Present to Investors](http://paulgraham.com/investors.html).
 * [The Hacker Guide to Investors](http://paulgraham.com/guidetoinvestors.html).
 * [Ycombinator: Meeting with investors](https://blog.ycombinator.com/aaron-harris-on-fundraising-and-meeting-with-investors/).
 
 
-### Equitities, Valuation, Finances
+#### Equitities, Valuation, Finances
 
 * [The Equity Equation](http://paulgraham.com/equity.html).
 * [On Valuation](https://avc.com/2004/07/valuation/).
