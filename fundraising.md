@@ -36,6 +36,7 @@
 
 ### angels and vcs
 
+* [Untapped](https://www.untapped.vc/)
 * [Acme](https://www.acme.vc/).
 * [Harlen](https://harlem.capital/about).
 * [Atomic](https://www.atomico.com/).
