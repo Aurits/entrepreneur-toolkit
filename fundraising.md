@@ -2,18 +2,12 @@
 
 <br>
 
+### tools
 
 * [Y Combinator Serie A Guide](https://www.ycombinator.com/resources/series-a-guide).
 * [Signal](https://signal.nfx.com/): fundraising CRM for startup founders.
 * [List of microgrants](https://github.com/nayafia/microgrants).
 * [A Fundraising Survival Guide](http://www.paulgraham.com/fundraising.html).
-
-<br>
-
----
-
-### tools
-
 * [venture funding events in web3](https://vcdata.site/)
 
 <br>
